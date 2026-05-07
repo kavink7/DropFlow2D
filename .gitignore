@@ -1,0 +1,15 @@
+/deps/
+/node_modules/
+
+/_build/
+/cover/
+/doc/
+
+.env
+/config/prod.secret.exs
+/config/releases.exs
+
+erl_crash.dump
+*.ez
+*.beam
+.DS_Store
